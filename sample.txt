@@ -1,0 +1,6 @@
+This is a secret message!
+Contains sensitive information.
+For demonstration purposes only.
+
+Java Encryption Demo - hola hii how are you .
+Created by: ARSHAN
